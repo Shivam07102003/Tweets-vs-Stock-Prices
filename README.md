@@ -61,8 +61,8 @@ After merging, the **processed dataset (`merged_dataset.csv`)** contains:
 - 📉 **Visual analysis** → sentiment trends (e.g., TSLA, AAPL, TSM) often diverge from price trends.  
 
 Example visualizations:  
-![Correlation Heatmap](docs/correlation_heatmap.png)  
-![Sentiment vs Price](docs/sentiment_vs_price.png)  
+![Sentiment Distribution By Stock](images/stock_sentiment.png)  
+![Sentiment vs Price for TSM stock](docs/sentiment_vs_price.png)  
 
 ---
 
