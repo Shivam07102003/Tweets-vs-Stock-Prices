@@ -1,4 +1,4 @@
-# 📊 Stock Price & Tweet Sentiment Analysis
+# 📊 Tweets vs Stock Prices
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -13,8 +13,8 @@ This project combines **NLP sentiment analysis** and **stock market data** to te
 Clone the repository and set up a virtual environment:
 
 ```bash
-git clone https://github.com/your-username/embrizon_project_1.git
-cd embrizon_project_1
+git clone https://github.com/Shivam07102003/Tweets-vs-Stock-Prices.git
+cd Tweets-vs-Stock-Prices
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
