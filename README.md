@@ -62,7 +62,7 @@ After merging, the **processed dataset (`merged_dataset.csv`)** contains:
 
 Example visualizations:  
 ![Sentiment Distribution By Stock](images/stock_sentiment.png)  
-![Sentiment vs Price for TSM stock](docs/sentiment_vs_price.png)  
+![Sentiment vs Price for TSM stock](images/sentiment_vs_price.png)  
 
 ---
 
@@ -90,7 +90,6 @@ Pull requests are welcome!
 ## 📜 License
 
 This project is licensed under the **MIT License**.  
-
 
 ---
 
